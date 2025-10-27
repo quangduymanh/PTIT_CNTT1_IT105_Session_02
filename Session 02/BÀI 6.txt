@@ -1,0 +1,33 @@
+BÀI 6: 
+
+1. Các yếu tố môi trường ảnh hưởng đến hệ thống:
+
+Người dùng hệ thống (bác sĩ, y tá, nhân viên lễ tân, quản lý, bệnh nhân)
+
+Quy trình nghiệp vụ y tế (khám bệnh, nhập viện, xét nghiệm, cấp thuốc)
+
+Phần cứng và thiết bị (máy chủ, máy tính, máy in, thiết bị y tế)
+
+Phần mềm khác có liên kết (bảo hiểm y tế, hệ thống xét nghiệm, quản lý thuốc)
+
+Luật lệ và quy định (bảo mật thông tin bệnh nhân, tiêu chuẩn dữ liệu y tế)
+
+Hệ thống mạng và an ninh (Internet, LAN, VPN, bảo mật truy cập)
+
+Yếu tố tổ chức và nhân sự (trình độ CNTT, quy mô bệnh viện, ngân sách)
+
+2. Ảnh hưởng của từng yếu tố đến yêu cầu kỹ thuật:
+
+Người dùng: Hệ thống cần giao diện thân thiện, dễ sử dụng; có phân quyền rõ ràng giữa các vai trò (bác sĩ, lễ tân, kế toán…).
+
+Quy trình nghiệp vụ: Yêu cầu phần mềm hỗ trợ tự động hoá luồng công việc (đăng ký – khám – xét nghiệm – thanh toán).
+
+Phần cứng và thiết bị: Cần đảm bảo tương thích với thiết bị y tế, máy in hóa đơn, và hệ thống lưu trữ dữ liệu lớn.
+
+Phần mềm liên kết: Hệ thống phải có khả năng tích hợp API, trao đổi dữ liệu định dạng chuẩn (ví dụ: HL7, FHIR).
+
+Luật lệ và quy định: Yêu cầu mã hóa dữ liệu, bảo mật thông tin bệnh nhân, sao lưu an toàn và tuân thủ pháp lý.
+
+Hệ thống mạng: Đảm bảo tốc độ truyền dữ liệu nhanh, kết nối ổn định và bảo vệ khỏi truy cập trái phép.
+
+Tổ chức và nhân sự: Giao diện cần trực quan, hỗ trợ đào tạo nhanh, dễ bảo trì, và có hướng dẫn sử dụng chi tiết.

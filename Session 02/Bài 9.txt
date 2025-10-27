@@ -1,0 +1,68 @@
+Bài 8:
+I. Giới thiệu
+Mục đích:
+Trình bày mục tiêu của hệ thống, đối tượng sử dụng (khách hàng, nhân viên, quản lý).
+
+Phạm vi:
+Mô tả hệ thống đặt món ăn trực tuyến và tại quán, giúp tự động hóa quy trình gọi món và thanh toán.
+
+Định nghĩa và viết tắt:
+Giải thích các thuật ngữ (VD: POS – Point of Sale, API – Application Programming Interface).
+
+Tài liệu tham khảo:
+Liệt kê các tài liệu, tiêu chuẩn, hoặc nguồn tham khảo sử dụng khi thiết kế.
+
+II. Mô tả tổng quát hệ thống
+
+Quan điểm sản phẩm:
+Hệ thống là một phần mềm độc lập hoặc tích hợp với hệ thống quản lý nhà hàng.
+
+Chức năng của hệ thống:
+
+Xem thực đơn.
+
+Đặt món ăn.
+
+Thanh toán.
+
+Quản lý đơn hàng và hóa đơn.
+
+Đặc điểm người dùng:
+
+Khách hàng (người đặt món).
+
+Nhân viên phục vụ.
+
+Quản lý quán.
+
+Ràng buộc chung:
+
+Hoạt động trên web và di động.
+
+Phản hồi nhanh, dễ thao tác.
+
+III. Yêu cầu chức năng
+
+Đăng nhập/Đăng ký người dùng.
+
+Xem và tìm kiếm món ăn theo danh mục.
+
+Đặt món, chỉnh sửa, hủy đơn hàng.
+
+Thanh toán trực tuyến hoặc tại quán.
+
+Quản lý thực đơn, giá và tình trạng món ăn.
+
+IV. Yêu cầu phi chức năng
+
+Hiệu năng: Phản hồi < 3 giây/màn hình.
+
+Bảo mật: Mã hóa dữ liệu cá nhân và giao dịch.
+
+Khả dụng: Hệ thống hoạt động 24/7, dễ bảo trì.
+
+Tương thích: Hỗ trợ trình duyệt và thiết bị di động.
+
+V. Phụ lục
+
+Mô hình dữ liệu, biểu đồ use case, sơ đồ lớp, và các yêu cầu mở rộng.
