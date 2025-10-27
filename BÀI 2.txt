@@ -1,0 +1,19 @@
+BÀI 2:
+
+Phần mềm được chọn: App Ngân hàng (Mobile Banking)
+
+1. Yêu cầu chức năng:
+
+Đăng nhập và xác thực người dùng (bằng mật khẩu, OTP hoặc vân tay).
+
+Chuyển tiền nội bộ và liên ngân hàng.
+
+Xem lịch sử giao dịch (lọc theo ngày hoặc loại giao dịch).
+
+2. Yêu cầu phi chức năng:
+
+Bảo mật cao: mã hóa dữ liệu, đăng nhập đa lớp.
+
+Tốc độ xử lý nhanh: phản hồi trong vòng 2 giây.
+
+Tương thích đa nền tảng: hoạt động ổn định trên iOS và Android.

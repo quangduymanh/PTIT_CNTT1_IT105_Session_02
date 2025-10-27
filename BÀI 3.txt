@@ -1,0 +1,43 @@
+BÀI 3:
+
+Phần mềm được chọn: Ứng dụng Shopee
+
+1. Yếu tố thuộc môi trường hệ thống:
+
+Người dùng:
+
+Khách hàng (người mua).
+
+Người bán hàng (shop).
+
+Nhân viên hỗ trợ Shopee.
+
+Phần cứng:
+
+Điện thoại, máy tính bảng, máy tính cá nhân.
+
+Máy chủ (server) lưu trữ và xử lý dữ liệu.
+
+Phần mềm:
+
+Ứng dụng Shopee (App và website).
+
+Hệ điều hành Android, iOS, Windows.
+
+Cơ sở dữ liệu và phần mềm quản lý giao dịch.
+
+Hệ thống bên ngoài:
+
+Hệ thống thanh toán (Momo, ZaloPay, ngân hàng).
+
+Đơn vị vận chuyển (J&T, GHN, Viettel Post).
+
+Quy trình nghiệp vụ:
+
+Đặt hàng → Thanh toán → Vận chuyển → Đánh giá.
+
+Luật lệ:
+
+Chính sách bảo vệ người tiêu dùng.
+
+Quy định về thuế, hóa đơn điện tử và quyền sở hữu sản phẩm.

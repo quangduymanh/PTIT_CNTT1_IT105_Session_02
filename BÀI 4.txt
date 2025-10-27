@@ -1,0 +1,31 @@
+BÀI 4:
+
+Hệ thống: Hệ thống học trực tuyến (E-learning System)
+
+1. Giới thiệu (Introduction)
+Trình bày mục đích của tài liệu, phạm vi của hệ thống và đối tượng sử dụng.
+- Giúp người đọc hiểu mục tiêu chung của dự án.
+
+2. Tổng quan hệ thống (Overall Description)
+Mô tả bối cảnh, chức năng chính, loại người dùng và các ràng buộc của hệ thống.
+- Cung cấp cái nhìn tổng quát trước khi đi sâu vào chi tiết.
+
+3. Yêu cầu chức năng (Functional Requirements)
+Liệt kê các tính năng mà hệ thống cần có như: đăng nhập, quản lý khóa học, chấm điểm, gửi thông báo.
+- Là phần quan trọng nhất mô tả hệ thống “làm gì”.
+
+4. Yêu cầu phi chức năng (Non-functional Requirements)
+Trình bày các yêu cầu về hiệu năng, bảo mật, giao diện, khả năng mở rộng.
+- Đảm bảo hệ thống hoạt động ổn định và đáp ứng chất lượng mong muốn.
+
+5. Mô hình hệ thống và giao diện (System Models & Interface)
+Bao gồm sơ đồ use case, sơ đồ lớp hoặc mô tả giao diện chính.
+- Giúp hình dung cấu trúc và cách người dùng tương tác với hệ thống.
+
+6. Ràng buộc và giả định (Constraints & Assumptions)
+Nêu các giới hạn kỹ thuật hoặc điều kiện cần có (ví dụ: cần kết nối Internet, hỗ trợ trên trình duyệt).
+- Giúp xác định phạm vi và điều kiện hoạt động của hệ thống.
+
+7. Phụ lục (Appendix)
+Lưu các tài liệu tham khảo, thuật ngữ hoặc biểu mẫu liên quan.
+- Giúp người đọc dễ tra cứu và hiểu rõ hơn về nội dung SRS.
