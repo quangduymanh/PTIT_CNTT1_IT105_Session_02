@@ -1,4 +1,4 @@
-Bài 7:
+Bài 8:
 
 
 1. Yêu cầu chức năng
@@ -16,5 +16,6 @@ Quản trị viên có thể thêm, sửa, xóa và xem thông tin các chuyến
 Hệ thống phải phản hồi trong vòng 5 giây sau mỗi thao tác tìm kiếm.
 
 Giao diện thân thiện, dễ sử dụng trên cả máy tính và điện thoại.
+
 
 Dữ liệu người dùng và giao dịch phải được bảo mật tuyệt đối.
