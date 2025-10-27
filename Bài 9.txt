@@ -1,4 +1,4 @@
-Bài 8:
+Bài 9:
 I. Giới thiệu
 Mục đích:
 Trình bày mục tiêu của hệ thống, đối tượng sử dụng (khách hàng, nhân viên, quản lý).
@@ -64,5 +64,6 @@ Khả dụng: Hệ thống hoạt động 24/7, dễ bảo trì.
 Tương thích: Hỗ trợ trình duyệt và thiết bị di động.
 
 V. Phụ lục
+
 
 Mô hình dữ liệu, biểu đồ use case, sơ đồ lớp, và các yêu cầu mở rộng.
